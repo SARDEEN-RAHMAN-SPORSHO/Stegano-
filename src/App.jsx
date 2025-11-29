@@ -792,7 +792,7 @@ const TextSteganography = () => {
                 </div>
               </div>
               <h1 style={styles.title}>QUANTUM STEALTH</h1>
-              <p style={styles.subtitle>Quantum-Resistant Message Concealment</p>
+              <p style={styles.subtitle}>Quantum-Resistant Message Concealment</p>
               <div style={{display: 'flex', justifyContent: 'center', gap: '0.5rem', marginTop: '1rem'}}>
                 <span style={styles.badge}>QUANTUM-RESISTANT</span>
                 <span style={{...styles.badge, backgroundColor: 'rgba(139, 92, 246, 0.2)', color: '#a78bfa', borderColor: 'rgba(139, 92, 246, 0.3)'}}>ZERO-WIDTH</span>
